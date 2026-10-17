@@ -1,6 +1,8 @@
 # LangChain Core
 langchain
 langchain-core
+langchain-community
+langchain-text-splitters
 
 # OpenAI Integration
 langchain-openai
@@ -24,3 +26,13 @@ python-dotenv
 # Machine Learning Utilities
 numpy
 scikit-learn
+
+# Vector Store
+langchain-chroma
+faiss-cpu
+
+# YouTube Transcript API
+youtube-transcript-api
+
+pydantic 
+requests
