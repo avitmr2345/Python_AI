@@ -36,3 +36,6 @@ youtube-transcript-api
 
 pydantic 
 requests
+
+# LangGraph
+langgraph
