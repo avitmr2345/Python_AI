@@ -39,3 +39,8 @@ requests
 
 # LangGraph
 langgraph
+streamlit
+langgraph-checkpoint-sqlite
+langgraph-checkpoint-postgres
+pypdf
+psycopg[binary,pool] 
